@@ -1,5 +1,7 @@
 # sklearn-app [![Python application test with Github Actions](https://github.com/Jantzilla/sklearn-app/actions/workflows/python-app.yml/badge.svg)](https://github.com/Jantzilla/sklearn-app/actions/workflows/python-app.yml)
 
+This project is a machine learning microservice API built using Flask, Kaggle and Sklearn.
+
 ## Project Plan
 <TODO: Project Plan
 
