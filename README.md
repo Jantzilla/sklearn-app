@@ -4,8 +4,8 @@ This project is a machine learning microservice API built using Flask, Kaggle an
 
 ## Project Plan
 
-* [Trello board](https://...) for the project
-* A ![spreadsheet](/...) that includes the original and final project plan
+* [Trello board](https://trello.com/b/lRBevUqu/sklearn-app) for the project
+* A ![spreadsheet](/Sklearn%20Project%20Plan.xlsx) that includes the original and final project plan
 
 ## Instructions
 
