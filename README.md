@@ -55,7 +55,7 @@ You can improve this project by adding CI/CD (Continuous Integration/Continuous 
 ### Successful prediction from deployed flask app in Azure Cloud Shell.
 ![Prediction](/screenshots/azure-app-services-prediction.png)
 
-#### Output of streamed log files from deployed application
+### Output of streamed log files from deployed application
 ![Logs](/screenshots/app-logs.png)
 
 ### Locust Console Configuration
